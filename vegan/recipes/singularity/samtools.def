@@ -3,7 +3,7 @@ From: conda/miniconda3-centos7
 
 %labels
     gitUrl ssh://git@gitlab.curie.fr:2222/data-analysis/nf-vegan.git
-    gitCommit 55eeec64de086dcf1f76c24b7fda1e235365c886 / devel
+    gitCommit fdcf1052daa901571e4dffca9f314251ad5424f0 / devel
 
 %environment
     PATH=/usr/local/envs/samtools_env/bin:$PATH
